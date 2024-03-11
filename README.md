@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @arturoarias12.
 - 👀 I’m interested in AI solutions.
 - 🌱 I’m currently mastering Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on Data and/or Software Development project.
+- 📫 How to reach me: [lin](https://www.linkedin.com/in/arturoarias1/)
 - ⚡ Fun fact: I'm a Chemical Engineer.
 
 <!---
